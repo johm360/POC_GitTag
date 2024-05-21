@@ -1,3 +1,3 @@
 # POC_GitTag
-- Feature1
+- Feature1 w/ credential for User1
 - Feature2
